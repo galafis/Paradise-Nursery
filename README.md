@@ -3,6 +3,7 @@
 > Coursera - IBM Full-Stack JavaScript Developer
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org)
 
 [English](#english) | [Portugues](#portugues)
